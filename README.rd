@@ -8,4 +8,4 @@ require(“devtools”)
 install.packages("devtools")
 library("devtools")
 install_github("guven-code/fitmix")
-https://github.com/guven-code/fitmix
+
